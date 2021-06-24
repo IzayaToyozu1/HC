@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HC", "HC\HC.csproj", "{C8148C51-700F-4EC4-B4EE-3E850F7F0564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCForms", "HCForms\HCForms.csproj", "{45CD02EF-7D25-4B55-BAF3-FD3534DC70A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8148C51-700F-4EC4-B4EE-3E850F7F0564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8148C51-700F-4EC4-B4EE-3E850F7F0564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8148C51-700F-4EC4-B4EE-3E850F7F0564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8148C51-700F-4EC4-B4EE-3E850F7F0564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CD02EF-7D25-4B55-BAF3-FD3534DC70A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CD02EF-7D25-4B55-BAF3-FD3534DC70A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CD02EF-7D25-4B55-BAF3-FD3534DC70A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CD02EF-7D25-4B55-BAF3-FD3534DC70A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {292A952A-1952-4D67-BA49-D0BCE624980A}
+	EndGlobalSection
+EndGlobal
